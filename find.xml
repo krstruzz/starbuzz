@@ -1,7 +1,7 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="File '[flutter_tutorial_layouts] - .../pubspec.yaml'" />
-    <option name="defaultScopeName" value="File '[flutter_tutorial_layouts] - .../pubspec.yaml'" />
-    <option name="SEARCH_SCOPE" value="File '[flutter_tutorial_layouts] - .../pubspec.yaml'" />
+    <option name="customScope" value="File '.../android/app/src/main/kotlin/com/struzzwebsolutions/musicplayerflutterapp/MainActivity.kt [music_player_flutter_app_android]'" />
+    <option name="defaultScopeName" value="File '.../android/app/src/main/kotlin/com/struzzwebsolutions/musicplayerflutterapp/MainActivity.kt [music_player_flutter_app_android]'" />
+    <option name="SEARCH_SCOPE" value="File '.../android/app/src/main/kotlin/com/struzzwebsolutions/musicplayerflutterapp/MainActivity.kt [music_player_flutter_app_android]'" />
   </component>
 </application>
